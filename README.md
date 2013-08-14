@@ -17,3 +17,5 @@ Appium repositories.
   - [ios unit tests](https://github.com/appium/ruby_lib_ios)
   - [android unit tests](https://github.com/appium/ruby_lib_android)
 - [appium_console gem](https://github.com/appium/ruby_console)
+
+[Selenium Page Objects](https://code.google.com/p/selenium/wiki/PageObjects)
