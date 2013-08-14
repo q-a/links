@@ -1,7 +1,7 @@
 Woven & Appium Links
 =====
 
-[Aug 14 webinar Woven](https://docs.google.com/presentation/d/10SS55m7z1IYbLMLlq8cIQX-KJ96F-I6JihWEVP70eY4/edit?usp=sharing)
+[Aug 14 webinar Woven Slides (with video)](https://docs.google.com/presentation/d/10SS55m7z1IYbLMLlq8cIQX-KJ96F-I6JihWEVP70eY4/edit?usp=sharing)
 
 [QA Jobs @ Aquent](https://github.com/q-a/aquent)
 
